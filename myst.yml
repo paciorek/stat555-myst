@@ -1,11 +1,11 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: "Stat 999"
+  title: "Stat 555"
   description: "Test Class Website Based On Myst"
   keywords: []
-  authors: ["Not Fernando Perez"]
-  github: https://github.com/berkeley-scf/stat999-myst
+  authors: Chris Paciorek
+  github: https://github.com/paciorek/stat555-myst
   # bibliography: []
   thebe:
     lite: true
@@ -18,7 +18,7 @@ project:
 
 site:
   template: book-theme
-  title: "Stat 999"
+  title: "Stat 555"
   logo: "panda-logo.png"
   nav: []
   actions:
