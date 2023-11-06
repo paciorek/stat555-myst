@@ -25,6 +25,10 @@ import numpy as np
 mean = np.mean(np.random.normal(size=100))
 print(f"{mean=}")
 ```
+```{python}
+print(3)
+```
+
 
 $$
 \theta = \int_0^\infty f(x,\theta)d\theta
